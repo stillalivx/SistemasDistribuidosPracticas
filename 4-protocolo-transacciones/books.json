@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "titulo": "El misterio del faro",
+    "fecha_publicacion": "2022-05-15",
+    "autor": "Elena García",
+    "genero": "Misterio",
+    "precio": 19.99
+  },
+  {
+    "id": 2,
+    "titulo": "Aventuras en la selva",
+    "fecha_publicacion": "2021-08-20",
+    "autor": "Juan Pérez",
+    "genero": "Aventura",
+    "precio": 24.95
+  },
+  {
+    "id": 3,
+    "titulo": "La heredera del trono",
+    "fecha_publicacion": "2023-01-10",
+    "autor": "Isabel Martínez",
+    "genero": "Fantasía",
+    "precio": 29.99
+  },
+  {
+    "id": 4,
+    "titulo": "El secreto de la montaña",
+    "fecha_publicacion": "2022-11-05",
+    "autor": "Luis Rodríguez",
+    "genero": "Aventura",
+    "precio": 22.50
+  },
+  {
+    "id": 5,
+    "titulo": "Crímenes en la ciudad",
+    "fecha_publicacion": "2022-03-18",
+    "autor": "Ana López",
+    "genero": "Suspenso",
+    "precio": 18.75
+  },
+  {
+    "id": 6,
+    "titulo": "El viaje perdido",
+    "fecha_publicacion": "2021-07-12",
+    "autor": "Pedro Sánchez",
+    "genero": "Aventura",
+    "precio": 23.99
+  },
+  {
+    "id": 7,
+    "titulo": "Amor en París",
+    "fecha_publicacion": "2023-02-28",
+    "autor": "María Fernández",
+    "genero": "Romance",
+    "precio": 16.99
+  },
+  {
+    "id": 8,
+    "titulo": "El enigma del castillo",
+    "fecha_publicacion": "2021-12-08",
+    "autor": "David Ruiz",
+    "genero": "Misterio",
+    "precio": 21.50
+  },
+  {
+    "id": 9,
+    "titulo": "La profecía perdida",
+    "fecha_publicacion": "2022-09-22",
+    "autor": "Laura González",
+    "genero": "Fantasía",
+    "precio": 26.25
+  },
+  {
+    "id": 10,
+    "titulo": "La conspiración del siglo",
+    "fecha_publicacion": "2023-03-10",
+    "autor": "Miguel Pérez",
+    "genero": "Thriller",
+    "precio": 30.00
+  },
+  {
+    "id": 11,
+    "titulo": "El misterio del faro",
+    "fecha_publicacion": "2022-05-15",
+    "autor": "Elena García",
+    "genero": "Misterio",
+    "precio": 19.99
+  },
+  {
+    "id": 12,
+    "titulo": "Aventuras en la selva",
+    "fecha_publicacion": "2021-08-20",
+    "autor": "Juan Pérez",
+    "genero": "Aventura",
+    "precio": 24.95
+  },
+  {
+    "id": 13,
+    "titulo": "La heredera del trono",
+    "fecha_publicacion": "2023-01-10",
+    "autor": "Isabel Martínez",
+    "genero": "Fantasía",
+    "precio": 29.99
+  },
+  {
+    "id": 14,
+    "titulo": "El secreto de la montaña",
+    "fecha_publicacion": "2022-11-05",
+    "autor": "Luis Rodríguez",
+    "genero": "Aventura",
+    "precio": 22.50
+  },
+  {
+    "id": 15,
+    "titulo": "Crímenes en la ciudad",
+    "fecha_publicacion": "2022-03-18",
+    "autor": "Ana López",
+    "genero": "Suspenso",
+    "precio": 18.75
+  },
+  {
+    "id": 16,
+    "titulo": "El viaje perdido",
+    "fecha_publicacion": "2021-07-12",
+    "autor": "Pedro Sánchez",
+    "genero": "Aventura",
+    "precio": 23.99
+  },
+  {
+    "id": 17,
+    "titulo": "Amor en París",
+    "fecha_publicacion": "2023-02-28",
+    "autor": "María Fernández",
+    "genero": "Romance",
+    "precio": 16.99
+  },
+  {
+    "id": 18,
+    "titulo": "El enigma del castillo",
+    "fecha_publicacion": "2021-12-08",
+    "autor": "David Ruiz",
+    "genero": "Misterio",
+    "precio": 21.50
+  },
+  {
+    "id": 19,
+    "titulo": "La profecía perdida",
+    "fecha_publicacion": "2022-09-22",
+    "autor": "Laura González",
+    "genero": "Fantasía",
+    "precio": 26.25
+  },
+  {
+    "id": 20,
+    "titulo": "La conspiración del siglo",
+    "fecha_publicacion": "2023-03-10",
+    "autor": "Miguel Pérez",
+    "genero": "Thriller",
+    "precio": 30.00
+  },
+  {
+    "id": 21,
+    "titulo": "El misterio del faro",
+    "fecha_publicacion": "2022-05-15",
+    "autor": "Elena García",
+    "genero": "Misterio",
+    "precio": 19.99
+  },
+  {
+    "id": 22,
+    "titulo": "Aventuras en la selva",
+    "fecha_publicacion": "2021-08-20",
+    "autor": "Juan Pérez",
+    "genero": "Aventura",
+    "precio": 24.95
+  },
+  {
+    "id": 23,
+    "titulo": "La heredera del trono",
+    "fecha_publicacion": "2023-01-10",
+    "autor": "Isabel Martínez",
+    "genero": "Fantasía",
+    "precio": 29.99
+  },
+  {
+    "id": 24,
+    "titulo": "El secreto de la montaña",
+    "fecha_publicacion": "2022-11-05",
+    "autor": "Luis Rodríguez",
+    "genero": "Aventura",
+    "precio": 22.50
+  },
+  {
+    "id": 25,
+    "titulo": "Crímenes en la ciudad",
+    "fecha_publicacion": "2022-03-18",
+    "autor": "Ana López",
+    "genero": "Suspenso",
+    "precio": 18.75
+  },
+  {
+    "id": 26,
+    "titulo": "El viaje perdido",
+    "fecha_publicacion": "2021-07-12",
+    "autor": "Pedro Sánchez",
+    "genero": "Aventura",
+    "precio": 23.99
+  },
+  {
+    "id": 27,
+    "titulo": "Amor en París",
+    "fecha_publicacion": "2023-02-28",
+    "autor": "María Fernández",
+    "genero": "Romance",
+    "precio": 16.99
+  },
+  {
+    "id": 28,
+    "titulo": "El enigma del castillo",
+    "fecha_publicacion": "2021-12-08",
+    "autor": "David Ruiz",
+    "genero": "Misterio",
+    "precio": 21.50
+  },
+  {
+    "id": 29,
+    "titulo": "La profecía perdida",
+    "fecha_publicacion": "2022-09-22",
+    "autor": "Laura González",
+    "genero": "Fantasía",
+    "precio": 26.25
+  },
+  {
+    "id": 30,
+    "titulo": "La conspiración del siglo",
+    "fecha_publicacion": "2023-03-10",
+    "autor": "Miguel Pérez",
+    "genero": "Thriller",
+    "precio": 30.00
+  },
+  {
+    "id": 31,
+    "titulo": "El misterio del faro",
+    "fecha_publicacion": "2022-05-15",
+    "autor": "Elena García",
+    "genero": "Misterio",
+    "precio": 19.99
+  },
+  {
+    "id": 32,
+    "titulo": "Aventuras en la selva",
+    "fecha_publicacion": "2021-08-20",
+    "autor": "Juan Pérez",
+    "genero": "Aventura",
+    "precio": 24.95
+  },
+  {
+    "id": 33,
+    "titulo": "La heredera del trono",
+    "fecha_publicacion": "2023-01-10",
+    "autor": "Isabel Martínez",
+    "genero": "Fantasía",
+    "precio": 29.99
+  },
+  {
+    "id": 34,
+    "titulo": "El secreto de la montaña",
+    "fecha_publicacion": "2022-11-05",
+    "autor": "Luis Rodríguez",
+    "genero": "Aventura",
+    "precio": 22.50
+  },
+  {
+    "id": 35,
+    "titulo": "Crímenes en la ciudad",
+    "fecha_publicacion": "2022-03-18",
+    "autor": "Ana López",
+    "genero": "Suspenso",
+    "precio": 18.75
+  },
+  {
+    "id": 36,
+    "titulo": "El viaje perdido",
+    "fecha_publicacion": "2021-07-12",
+    "autor": "Pedro Sánchez",
+    "genero": "Aventura",
+    "precio": 23.99
+  },
+  {
+    "id": 37,
+    "titulo": "Amor en París",
+    "fecha_publicacion": "2023-02-28",
+    "autor": "María Fernández",
+    "genero": "Romance",
+    "precio": 16.99
+  },
+  {
+    "id": 38,
+    "titulo": "El enigma del castillo",
+    "fecha_publicacion": "2021-12-08",
+    "autor": "David Ruiz",
+    "genero": "Misterio",
+    "precio": 21.50
+  },
+  {
+    "id": 39,
+    "titulo": "La profecía perdida",
+    "fecha_publicacion": "2022-09-22",
+    "autor": "Laura González",
+    "genero": "Fantasía",
+    "precio": 26.25
+  },
+  {
+    "id": 40,
+    "titulo": "La conspiración del siglo",
+    "fecha_publicacion": "2023-03-10",
+    "autor": "Miguel Pérez",
+    "genero": "Thriller",
+    "precio": 30.00
+  }
+]
